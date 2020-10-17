@@ -15,4 +15,6 @@ Total Rides, Drivers, and Fares increase as the city type increases in populatio
 
 If you refer to the number of drivers and rides urban areas, you'll notice that the number of drivers in urban areas outnumbers the number of rides over this period. PyBer could take more profit per fare from this demographic as the supply of drivers perhaps outpaces the demand. Urban drivers have the lowest average fare per ride and driver.
 
-By the same token, Suburban and Rural areas might be underserved by drivers as their average fares are much higher. 
+By the same token, Suburban and Rural areas might be underserved by drivers as their average fares are much higher. Adding incentives for drivers in those areas might help increase the number of rides and therefore increase revenue (particularly in suburban areas).
+
+Finally, people in Rural areas might not be using PyBer as much because they are not as aware of the PyBer product. Perhaps advertising more in those markets would increase brand awareness.
